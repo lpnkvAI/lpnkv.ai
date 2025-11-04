@@ -82,15 +82,6 @@
 
 ---
 
-## 🖼️ Визуализация
-
-<p align="center">
-  <img src="https://github.com/lpnkv-ai/lpnkv-ai/blob/main/projects/ai-sales-assistant/images/dialog-demo.png" alt="AI Sales Assistant Demo" width="800">
-</p>
-<p align="center"><i>Пример диалога с AI-продавцом в Telegram</i></p>
-
----
-
 ## 📫 Контакты
 
 👩‍💻 **Автор:** [@lpnkv](https://t.me/lpnkv)  
