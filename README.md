@@ -52,8 +52,7 @@
 ---
 
 ## 🌐 Профили и ссылки
-
-- GitHub: [github.com/lpnkv-ai](https://github.com/lpnkv-ai)  
+ 
 - Telegram: [@lpnkv](https://t.me/lpnkv)  
 - Email: [lupenkova.tatyana@mail.ru](mailto:lupenkova.tatyana@mail.ru)
 
