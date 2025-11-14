@@ -86,7 +86,6 @@
 
 👩‍💻 **Автор:** [@lpnkv](https://t.me/lpnkv)  
 📧 **Email:** [lupenkova.tatyana@mail.ru](mailto:lupenkova.tatyana@mail.ru)  
-🌐 **GitHub:** [github.com/lpnkv-ai](https://github.com/lpnkv-ai)
 
 ---
 
