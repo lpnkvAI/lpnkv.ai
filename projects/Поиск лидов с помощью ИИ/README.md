@@ -63,4 +63,3 @@ AI-ассистент:
 
 👩‍💻 **Автор:** @lpnkv  
 📧 Email: **lupenkova.tatyana@mail.ru**  
-🌐 GitHub: [github.com/lpnkv-ai](https://github.com/lpnkv-ai)
