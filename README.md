@@ -51,15 +51,6 @@
 
 ---
 
-## 📈 GitHub-статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lpnkv-ai&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpnkv-ai&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
 ## 🌐 Профили и ссылки
 
 - GitHub: [github.com/lpnkv-ai](https://github.com/lpnkv-ai)  
